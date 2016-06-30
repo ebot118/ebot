@@ -1,6 +1,9 @@
 {
-    "BOT": "Hi there!\nI’m E.Bot, a virtual being.\nWant to know more about bots or learn about E.Bot? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about E.Bot](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m E.Bot, a virtual being.\nWant to know more about bots or learn about E.Bot? %[I'm here for the bot] %[Learn about E.Bot] %[One random fact!]",
     "HELLO": "Hey, I'm so glad you set E.Bot up!",
+    "I'M HERE FOR THE BOT": "I'm here for you :)",
+    "LEARN MORE ABOUT E.BOT": "E.Bot was born on June 30th, 2016 at 12:26PM. %[I want to know more]",
+    "I WANT TO KNOW MORE": "More is coming soon!",
     "I LOVE YOU": "Awe, love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, E.bot is back.",
