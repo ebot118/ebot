@@ -2,6 +2,8 @@
     "BOT": "Hi there!\nI’m E.Bot, a virtual being.\n!Want to know more about bots or learn about E.Bot? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about E.Bot](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set E.Bot up!",
     "I LOVE YOU": "Awe, love you too!",
+    "CONNECT ME": "",
+    "DISCONNECT": "Roger that, E.bot is back.",
     "HI": "Hey, I'm so glad you set E.Bot up!",
-    "HEY": "Hey, I'm so glad you set E.Bot up!",
+    "HEY": "Hey, I'm so glad you set E.Bot up!"
 }
